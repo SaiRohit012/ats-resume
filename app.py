@@ -293,8 +293,8 @@ Analyst with experience in \textbf{SQL, Python, and Google BigQuery} for \textbf
 \resumeSubHeadingListStart
 
   \resumeSubheading
-    {Analyst Intern -- UK Fraud Analytics \textnormal{$|$ HSBC}}{India}
-    {SQL $\cdot$ Python $\cdot$ Google BigQuery $\cdot$ Agile/Scrum}{Jan 2026 -- Present}
+    {HSBC \textnormal{$|$ Analyst Intern -- UK Fraud Analytics}}{India}
+    {Python $\cdot$ SQL $\cdot$ Google BigQuery $\cdot$ Agile/Scrum}{Jan 2026 -- Present}
   \resumeItemListStart
     \resumeItem{Evaluated vendor fraud scores across \textbf{3+ fraud typologies} using \textbf{complex SQL on BigQuery}; delivered analytical report confirming \textbf{0\% incremental lift}, preventing an estimated \textbf{\$200K+ misdirected investment} in the UK Cards portfolio.}
     \resumeItem{Validated fraud reduction claims via \textbf{multi-join SQL} across \textbf{5M+ transactions}; built \textbf{KPI baselines} enabling rigorous \textbf{before-vs-after impact measurement} across authentication and \textbf{fraud metrics}.}
@@ -302,8 +302,8 @@ Analyst with experience in \textbf{SQL, Python, and Google BigQuery} for \textbf
   \resumeItemListEnd
 
   \resumeSubheading
-    {Software Engineer Intern -- Backend \& Distributed Systems \textnormal{$|$ Codinoverse}}{India}
-    {Java $\cdot$ Scala $\cdot$ Akka $\cdot$ Apache Kafka $\cdot$ REST APIs $\cdot$ JUnit}{Feb 2024 -- Mar 2024}
+    {Codinoverse \textnormal{$|$ Software Engineer Intern -- Backend \& Distributed Systems}}{India}
+    {Java $\cdot$ Scala $\cdot$ Akka $\cdot$ Apache Kafka $\cdot$ REST APIs $\cdot$ JUnit}{Feb 2024 -- Apr 2024}
   \resumeItemListStart
     \resumeItem{Architected \textbf{5+ distributed microservices} in \textbf{Java, Scala, and Akka} with \textbf{$>$90\% unit test coverage}; applied OOP design patterns for a scalable, production-ready service foundation.}
     \resumeItem{Built \textbf{event-driven pipelines} using \textbf{Apache Kafka} with \textbf{REST API} integration; enhanced \textbf{root-cause analysis} capabilities, reducing mean-time-to-detect incidents by an estimated \textbf{40\%}.}
