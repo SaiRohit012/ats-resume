@@ -292,6 +292,17 @@ Analyst with experience in \textbf{SQL, Python, and Google BigQuery} for \textbf
 \section{Experience}
 \resumeSubHeadingListStart
 
+  %---------- REDWOOD ----------
+  \resumeSubheading
+    {Redwood Software Pvt. Ltd. \textnormal{$|$ Software Engineer}}{India}
+    {Java $\cdot$ Spring Boot $\cdot$ Playwright $\cdot$ Cypress $\cdot$ SOAP $\cdot$ Cucumber}{Aug 2026 -- Present}
+  \resumeItemListStart
+    \resumeItem{Contributing to \textbf{Tidal Workload Automation}, working across its \textbf{5-layer distributed architecture} -- Client, Manager, Master, Agent, and Adapter -- for feature development and core component engineering.}
+    \resumeItem{Developing and enhancing \textbf{Java/Spring Boot components} for the \textbf{2027.1 release}, working across core services and distributed job-execution workflows while maintaining compatibility with existing enterprise functionality.}
+    \resumeItem{Engineering \textbf{end-to-end test automation} using \textbf{Playwright, Cypress, SOAP, and Cucumber}, covering UI, service, integration, and workload-execution scenarios across multiple Tidal components.}
+    \resumeItem{Driving \textbf{product sustainability and defect resolution} through cross-component debugging, root-cause analysis, and regression validation while shadowing the \textbf{2026.4 release} and transitioning ownership toward \textbf{2027.1}.}
+  \resumeItemListEnd
+
   \resumeSubheading
     {HSBC \textnormal{$|$ Analyst Intern -- UK Fraud Analytics}}{India}
     {Python $\cdot$ SQL $\cdot$ Google BigQuery $\cdot$ Agile/Scrum}{Jan 2026 -- Present}
@@ -427,6 +438,17 @@ B.Tech Computer Science Engineering \hfill CGPA: 7.97
 
 \section{Experience}
 
+%---------- REDWOOD ----------
+\textbf{Software Engineer -- Redwood Software Pvt. Ltd. India} \hfill Aug 2026 -- Present \\
+\textit{Java, Spring Boot, Playwright, Cypress, SOAP, Cucumber, Workload Automation}
+\begin{itemize}
+  \item Contributing to \textbf{Tidal Workload Automation}, working across its \textbf{5-layer distributed architecture} -- Client, Manager, Master, Agent, and Adapter -- for feature development and core component engineering.
+  \item Developing and enhancing \textbf{Java/Spring Boot components} for the \textbf{2027.1 release}, working across core services and distributed job-execution workflows while maintaining compatibility with existing enterprise functionality.
+  \item Engineering \textbf{end-to-end test automation} using \textbf{Playwright, Cypress, SOAP, and Cucumber}, covering UI, service, integration, and workload-execution scenarios across multiple Tidal components.
+  \item Driving \textbf{product sustainability and defect resolution} through cross-component debugging, root-cause analysis, and regression validation while shadowing the \textbf{2026.4 release} and transitioning ownership toward \textbf{2027.1}.
+\end{itemize}
+
+\vspace{-2pt}
 \textbf{Analyst Intern -- Fraud Analytics, HSBC India} \hfill Jan 2026 -- Present \\
 \textit{Python, SQL, BigQuery, Machine Learning, Scikit-learn, Agile}
 \begin{itemize}
